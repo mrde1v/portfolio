@@ -255,7 +255,7 @@ export default function Home() {
                   <Instagram size={32} />
                 </motion.a>
                 <motion.a
-                  href="mailto:your.email@example.com"
+                  href="mailto:dejvklima@gmail.com"
                   whileHover={{ scale: 1.1 }}
                   whileTap={{ scale: 0.9 }}
                   className="text-white hover:text-purple-400 transition-colors"
@@ -279,7 +279,7 @@ export default function Home() {
 
         <footer className="py-6 relative z-10 bg-black bg-opacity-50">
           <div className="container mx-auto px-6 text-center">
-            <p>&copy; 2023 David Klíma. All rights reserved.</p>
+            <p>&copy; 2024 David Klíma. All rights reserved.</p>
           </div>
         </footer>
       </motion.div>
